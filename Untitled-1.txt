@@ -1,4 +1,4 @@
-username:e7me196@sairamtap.edu.in
-password:shanthi3105
+username:YOUR MAIL ID
+password:YOUR PASSWORD
 Do you have camera ? [Y/N] :N
 Duration of Meeting (in minutes):10 
