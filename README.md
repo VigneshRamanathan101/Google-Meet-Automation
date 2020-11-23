@@ -9,4 +9,4 @@ CMD after installing python.
 Then you have to edit Untitled-1.txt. Change your emanil ID,Password,Duration of Class
 
 And you are Good to go Run the script
-Run 
+Run selenium_google_meet.py
